@@ -1,4 +1,4 @@
-# Rpi Pico Breadboard
+# MCI10537 Rpi Pico Breadboard
 
 ![Perspectiva](assets/perspectiva.png)
 
@@ -146,4 +146,3 @@ try:
 except KeyboardInterrupt:
     print("Prueba interrumpida.")
 ```
- Test 6515123
